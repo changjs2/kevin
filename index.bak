@@ -1,0 +1,150 @@
+<html>
+
+<head>
+<title>505</title>
+<meta name="GENERATOR" content="Namo WebEditor v6.0">
+<meta name="author" content="張永昌老師">
+<meta name="namo-theme" content="theme\Exotic\Oriental">
+<style>
+<!--
+body { font-family:新細明體; color:black; background-color:rgb(255,251,202); }
+h1 { font-family:新細明體; font-size:12; color:rgb(174,87,0); }
+h2 { font-family:新細明體; font-size:12; color:rgb(154,117,29); }
+p.namo-list { font-family:新細明體; font-size:12; color:rgb(119,116,51); }
+p.namo-sublist { font-family:新細明體; font-size:10; color:rgb(75,68,41); }
+table.namo-table { border-left-color:silver; border-top-color:silver; border-right-color:#535353; border-bottom-color:#535353; }
+table.namo-table td { border-left-color:#535353; border-top-color:#535353; border-right-color:silver; border-bottom-color:silver; }
+table.namo-table th { background-color:#FFF8B0; border-left-color:#535353; border-top-color:#535353; border-right-color:silver; border-bottom-color:silver; }
+span.namo-link, a:link { color:red; text-decoration:underline; }
+span.namo-visited, a:visited { color:#9D8A7B; text-decoration:underline; }
+span.namo-active, a:active { color:#836D3D; text-decoration:underline; }
+li.namo-list1 { list-style-image:url('nav/bullet1.gif'); }
+li.namo-list2 { list-style-image:url('nav/bullet2.gif'); }
+-->
+</style>
+<meta http-equiv="content-type" content="text/html; charset=big5">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script language="JavaScript">
+<!--
+function namosw_rotate_banner_go() 
+{
+  var targetstr = document._rotatetargets[document._rotate_no];
+  if (targetstr == 'blank') {
+    window.open(document._rotatelinks[document._rotate_no], 'win1');
+  } else {
+    var frameobj;
+    if (targetstr == '') targetstr = 'self';
+    if ((frameobj = eval(targetstr)) != null)
+      frameobj.location = document._rotatelinks[document._rotate_no];
+  }
+}
+
+function namosw_rotate_banner()
+{
+  if (!document._rotateimages) {
+    document._rotateimages  = new Array();
+    document._rotatelinks   = new Array();
+    document._rotatetargets = new Array();
+
+    document._rotate_name = 'image1';
+    document._rotate_interval = 3000;
+    document._rotate_itemnum = 3;
+    document._rotateimages[document._rotateimages.length] = "chang/030.JPG";
+    document._rotatelinks[document._rotatelinks.length] = "http://";
+    document._rotatetargets[document._rotatetargets.length] = "self";
+    document._rotateimages[document._rotateimages.length] = "chang/032.JPG";
+    document._rotatelinks[document._rotatelinks.length] = "http://";
+    document._rotatetargets[document._rotatetargets.length] = "self";
+    document._rotateimages[document._rotateimages.length] = "chang/033.JPG";
+    document._rotatelinks[document._rotatelinks.length] = "http://";
+    document._rotatetargets[document._rotatetargets.length] = "self";
+    setInterval("namosw_rotate_banner()", document._rotate_interval);
+    document._rotate_no = -1;
+  }
+
+  document._rotate_no++;
+  if (document._rotate_no == document._rotateimages.length)
+    document._rotate_no = 0;
+
+  document.images[document._rotate_name].src = document._rotateimages[document._rotate_no];
+}
+
+// --></script>
+<script language="JavaScript">
+<!--
+function na_change_img_src(name, nsdoc, rpath, preload)
+{ 
+  var img = eval((navigator.appName.indexOf('Netscape', 0) != -1) ? nsdoc+'.'+name : 'document.all.'+name);
+  if (name == '')
+    return;
+  if (img) {
+    img.altsrc = img.src;
+    img.src    = rpath;
+  } 
+}
+
+function na_restore_img_src(name, nsdoc)
+{
+  var img = eval((navigator.appName.indexOf('Netscape', 0) != -1) ? nsdoc+'.'+name : 'document.all.'+name);
+  if (name == '')
+    return;
+  if (img && img.altsrc) {
+    img.src    = img.altsrc;
+    img.altsrc = null;
+  } 
+}
+
+// --></script>
+
+</head>
+
+<body bgcolor="#FF8000" text="black" link="yellow" vlink="gray" alink="green" background="images/nth_theme_exotic_oriental_bg.gif" OnLoad="namosw_rotate_banner();">
+<div align="left">
+    <table border="0" width="750">
+        <tr>
+            <td width="744"><font size="5"><!--NAMO_NAVBAR_START B f C       -1 9 2 4 3 5 -->
+<div align="center">
+<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,29,0" width="468" height="60" align="texttop">
+<param name="movie" value="nav\nav_9_index_bhb.swf">
+<param name="play" value="true">
+<param name="loop" value="true">
+<param name="quality" value="high">
+<param name="Menu" value="false">
+<param name="WMode" value="Window">
+<embed src="nav\nav_9_index_bhb.swf" play="true" loop="true" quality="high" pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash" width="468" height="60"></embed>
+</object>
+</div>
+<!--NAMO_NAVBAR_END--></font></td>
+        </tr>
+</table>
+    <table border="0" width="750">
+        <tr>
+            <td width="744">
+                <p align="center"><a href="http://22769178.uclass.com.tw/" target="_self"><img border="0" src="chang/030.JPG" width="800" height="600" name="image1"></a></p>
+
+
+
+                <p align="center"><img src="images/nth_theme_exotic_oriental_hr.gif" border="0" class="namo-hr" width="720" height="21"></p>
+            </td></tr>
+    </table>
+<p>&nbsp;</p>
+
+</div>
+<p>&nbsp;</p>
+</body>
+
+</html>

@@ -1,0 +1,20 @@
+Namo WebEditor Project File
+attr.author=\u355f\u386c\u0c66\u0180\u2b5e
+attr.remote=ACMEcity
+attr.title=\u1162\u8476\ub27d\ud97a
+id={44DCA9D8-2D98-4C14-96A2-4ADAF64987A7}
+last_modified_time=afad518401cc6e36
+type=project
+usetheme=yes
+version=6
+node.0.children=2
+node.0.expanded=yes
+node.0.name=\u1162\u8476\ub27d\ud97a
+node.0.time=5204ff2801ca369d
+node.0.type=project
+node.0.url=/
+node.2.expanded=yes
+node.2.name=\u616b\uce8f\u864f 309  \u3175\u1657\u4772\u3290\u6551
+node.2.time=3155743801cc6e36
+node.2.type=file
+node.2.url=/index.html
